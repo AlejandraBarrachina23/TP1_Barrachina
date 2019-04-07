@@ -1,0 +1,72 @@
+C:\Users\Alejandra\Desktop\TRABAJO 1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Alejandra\Desktop\TRABAJO 1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Alejandra\Desktop\TRABAJO 1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Alejandra\Desktop\TRABAJO 1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Alejandra\Desktop\TRABAJO 1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmPrincipal.resources
+C:\Users\Alejandra\Desktop\TRABAJO 1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Alejandra\Desktop\TRABAJO 1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Alejandra\Desktop\TRABAJO 1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Alejandra\Desktop\TRABAJO 1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Alejandra\Desktop\TRABAJO 1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Alejandra\Desktop\TRABAJO 1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmPersona.resources
+C:\Users\Alejandra\Desktop\TRABAJO 1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmObjetos.resources
+C:\Users\Alejandra\Desktop\PROGRAMACION III\TRABAJO 1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Alejandra\Desktop\PROGRAMACION III\TRABAJO 1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Alejandra\Desktop\PROGRAMACION III\TRABAJO 1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Alejandra\Desktop\PROGRAMACION III\TRABAJO 1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmPrincipal.resources
+C:\Users\Alejandra\Desktop\PROGRAMACION III\TRABAJO 1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmObjetos.resources
+C:\Users\Alejandra\Desktop\PROGRAMACION III\TRABAJO 1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmPersona.resources
+C:\Users\Alejandra\Desktop\PROGRAMACION III\TRABAJO 1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Alejandra\Desktop\PROGRAMACION III\TRABAJO 1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Alejandra\Desktop\PROGRAMACION III\TRABAJO 1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Alejandra\Desktop\PROGRAMACION III\TRABAJO 1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Alejandra\Desktop\PROGRAMACION III\TRABAJO 1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Alejandra\Desktop\PROGRAMACION III\TRABAJO 1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Alejandra\Desktop\PROGRAMACION III\TRABAJO 1 - copia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Alejandra\Desktop\PROGRAMACION III\TRABAJO 1 - copia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmPrincipal.resources
+C:\Users\Alejandra\Desktop\PROGRAMACION III\TRABAJO 1 - copia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmObjetos.resources
+C:\Users\Alejandra\Desktop\PROGRAMACION III\TRABAJO 1 - copia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmPersona.resources
+C:\Users\Alejandra\Desktop\PROGRAMACION III\TRABAJO 1 - copia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Alejandra\Desktop\PROGRAMACION III\TRABAJO 1 - copia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Alejandra\Desktop\PROGRAMACION III\TRABAJO 1 - copia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Alejandra\Desktop\PROGRAMACION III\TRABAJO 1 - copia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Alejandra\Desktop\PROGRAMACION III\TRABAJO 1 - copia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Alejandra\Desktop\PROGRAMACION III\TRABAJO 1 - copia\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Alejandra\Desktop\PROGRAMACION III\TRABAJO 1 - copia\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Alejandra\Desktop\PROGRAMACION III\TRABAJO 1 - copia\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Alejandra\Desktop\PROGRAMACION III\TRABAJO 1 - prueba interfaz\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Alejandra\Desktop\PROGRAMACION III\TRABAJO 1 - prueba interfaz\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Alejandra\Desktop\PROGRAMACION III\TRABAJO 1 - prueba interfaz\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Alejandra\Desktop\PROGRAMACION III\TRABAJO 1 - prueba interfaz\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Alejandra\Desktop\PROGRAMACION III\TRABAJO 1 - prueba interfaz\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmPersona.resources
+C:\Users\Alejandra\Desktop\PROGRAMACION III\TRABAJO 1 - prueba interfaz\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmPrincipal.resources
+C:\Users\Alejandra\Desktop\PROGRAMACION III\TRABAJO 1 - prueba interfaz\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmObjetos.resources
+C:\Users\Alejandra\Desktop\PROGRAMACION III\TRABAJO 1 - prueba interfaz\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Alejandra\Desktop\PROGRAMACION III\TRABAJO 1 - prueba interfaz\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Alejandra\Desktop\PROGRAMACION III\TRABAJO 1 - prueba interfaz\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Alejandra\Desktop\PROGRAMACION III\TRABAJO 1 - prueba interfaz\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Alejandra\Desktop\PROGRAMACION III\TRABAJO 1 - prueba interfaz\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Alejandra\Desktop\PROGRAMACION III\TRABAJO 1 - final\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Alejandra\Desktop\PROGRAMACION III\TRABAJO 1 - final\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Alejandra\Desktop\PROGRAMACION III\TRABAJO 1 - final\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Alejandra\Desktop\PROGRAMACION III\TRABAJO 1 - final\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Alejandra\Desktop\PROGRAMACION III\TRABAJO 1 - final\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmPrincipal.resources
+C:\Users\Alejandra\Desktop\PROGRAMACION III\TRABAJO 1 - final\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmObjetos.resources
+C:\Users\Alejandra\Desktop\PROGRAMACION III\TRABAJO 1 - final\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Alejandra\Desktop\PROGRAMACION III\TRABAJO 1 - final\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Alejandra\Desktop\PROGRAMACION III\TRABAJO 1 - final\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Alejandra\Desktop\PROGRAMACION III\TRABAJO 1 - final\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Alejandra\Desktop\PROGRAMACION III\TRABAJO 1 - final\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Alejandra\Desktop\PROGRAMACION III\TRABAJO 1 - final\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmPersona.resources
+C:\Users\Alejandra\Desktop\alereentrega\arregladocompilacion\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Alejandra\Desktop\alereentrega\arregladocompilacion\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Alejandra\Desktop\alereentrega\arregladocompilacion\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Alejandra\Desktop\alereentrega\arregladocompilacion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Alejandra\Desktop\alereentrega\arregladocompilacion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmPersona.resources
+C:\Users\Alejandra\Desktop\alereentrega\arregladocompilacion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmPrincipal.resources
+C:\Users\Alejandra\Desktop\alereentrega\arregladocompilacion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmObjetos.resources
+C:\Users\Alejandra\Desktop\alereentrega\arregladocompilacion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Alejandra\Desktop\alereentrega\arregladocompilacion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Alejandra\Desktop\alereentrega\arregladocompilacion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Alejandra\Desktop\alereentrega\arregladocompilacion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Alejandra\Desktop\alereentrega\arregladocompilacion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
